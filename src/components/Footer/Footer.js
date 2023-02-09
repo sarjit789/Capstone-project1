@@ -23,9 +23,9 @@ const Footer = () => {
     <Section>
       <FooterSection>
         <FooterCompanyDetails>
-          <FooterLogo>INTREPIDE</FooterLogo>
+          <FooterLogo>GYM CENTER</FooterLogo>
           <FooterDescription>
-            Intrepide is your new home in boutique wellness. We join the
+           Gym center is your new home in boutique wellness. We join the
             dependable standards of Pilates with forefront development to give
             you the most out of each exercise.
           </FooterDescription>

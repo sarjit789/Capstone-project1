@@ -1,6 +1,7 @@
 import Program1Image from "./assets/program1-img.png";
 import Program2Image from "./assets/program2-img.png";
 
+
 export const programData = [
   {
     id: 1,

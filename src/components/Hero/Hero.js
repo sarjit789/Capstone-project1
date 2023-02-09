@@ -22,11 +22,11 @@ const Hero = () => {
     <MainHero>
       <MainDetails>
         <MainTitlte>
-          Make yourself <MainTitleLine>stronger </MainTitleLine> <br />
-          <MainTitleTextGradient>than your excuses.</MainTitleTextGradient>
+           <MainTitleLine>Your body can stand almost anything  </MainTitleLine> <br />
+           It’s your mind that you<MainTitleTextGradient>have to convince.</MainTitleTextGradient>
         </MainTitlte>
         <MainDescription>
-          Intrepide is your new home in boutique wellness. We join the
+          Gym center is your new home in boutique wellness. We join the
           dependable standards of Pilates with forefront development to give you
           the most out of each exercise.
         </MainDescription>

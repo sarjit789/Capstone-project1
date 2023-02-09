@@ -21,7 +21,7 @@ const Navbar = () => {
     <>
       <MobileNav isOpen={isOpen} toggleHandler={toggleHandler} />
       <StyledNavbar>
-        <Logo>Intrepide</Logo>
+        <Logo>Gym center</Logo>
         <Menu onClick={toggleHandler} />
         <NavLists>
           <NavList>
